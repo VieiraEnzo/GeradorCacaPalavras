@@ -1,8 +1,10 @@
 def modo_facil():
     print('modo facil')
-    pass
-
-
+    
 
 def modo_medio():
-    pass
+    print("modo pedio")
+
+
+def modo_dificil():
+    print("HAHA, boa sorte")
